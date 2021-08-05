@@ -13,3 +13,6 @@
 
 # step 4 - error handling page works
 ![postman request output](screenshots/step_4_1.jpg)
+
+# step 5 - page with updated configuration works
+![postman request output](screenshots/step_5.jpg)
