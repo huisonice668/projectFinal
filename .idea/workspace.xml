@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c20c6c1-ec24-4f48-b2c4-2974c4e34e27" name="Default Changelist" comment="commit 2: step 2">
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/forms.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/home.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/success.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/contact.jinja2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/index.jinja2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/layout.jinja2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/signup.jinja2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/success.jinja2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="1c20c6c1-ec24-4f48-b2c4-2974c4e34e27" name="Default Changelist" comment="commit 3: step 3">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/routes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/static/css/home.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/static/img/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/static/img/flask-jinja@2x.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/templates/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/templates/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/templates/navigation.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/step_1_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/step_2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/success.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/contact.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/index.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/layout.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/signup.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/success.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +65,7 @@
       <workItem from="1628174362800" duration="81000" />
       <workItem from="1628174612910" duration="73000" />
       <workItem from="1628176096857" duration="1394000" />
+      <workItem from="1628181024896" duration="129000" />
     </task>
     <task id="LOCAL-00001" summary="commit 1: step 1">
       <created>1628139883109</created>
