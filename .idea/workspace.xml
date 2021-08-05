@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c20c6c1-ec24-4f48-b2c4-2974c4e34e27" name="Default Changelist" comment="commit 1: step 1">
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+    <list default="true" id="1c20c6c1-ec24-4f48-b2c4-2974c4e34e27" name="Default Changelist" comment="commit 2: step 2">
+      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/success.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/contact.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/index.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/layout.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/signup.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/success.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/static/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/static/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/static/img/flask-jinja@2x.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/templates/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_jinja_tutorial/templates/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/step_1_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/step_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +40,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="step_2" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,6 +70,10 @@
       <workItem from="1628138555395" duration="295000" />
       <workItem from="1628138855465" duration="1950000" />
       <workItem from="1628170483570" duration="2235000" />
+      <workItem from="1628173213116" duration="1065000" />
+      <workItem from="1628174362800" duration="81000" />
+      <workItem from="1628174612910" duration="73000" />
+      <workItem from="1628176096857" duration="1394000" />
     </task>
     <task id="LOCAL-00001" summary="commit 1: step 1">
       <created>1628139883109</created>
@@ -52,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628139883109</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 2: step 2">
+      <created>1628173249174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1628173249174</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit 2: step 2">
+      <created>1628173339162</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628173339162</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1: step 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1: step 1" />
+    <MESSAGE value="commit 2: step 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2: step 2" />
   </component>
 </project>
