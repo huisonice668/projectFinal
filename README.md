@@ -12,4 +12,4 @@
 ![postman request output](screenshots/step_3_3.jpg)
 
 # step 4 - error handling page works
-![postman request output](screenshots/step_4.jpg)
+![postman request output](screenshots/step_4_1.jpg)
