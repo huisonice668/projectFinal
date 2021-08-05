@@ -1,0 +1,16 @@
+Index: README.MD
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.MD b/README.MD
+new file mode 100644
+--- /dev/null	(date 1628170805559)
++++ b/README.MD	(date 1628170805559)
+@@ -0,0 +1,5 @@
++# Step 1
++![postman request output](screenshots/step_1_2.jpg)
++
++# Step 2
++![postman request output](screenshots/step_1_2.jpg)
+\ No newline at end of file
