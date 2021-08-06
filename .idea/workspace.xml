@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c20c6c1-ec24-4f48-b2c4-2974c4e34e27" name="Default Changelist" comment="commit 5: step 5">
+    <list default="true" id="fa28d2c7-b124-480c-a0ef-dba0c22c73fd" name="Default Changelist" comment="commit 6: step 6">
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projectFinal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/routes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/forms.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/static/css/success.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/contact.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/index.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/layout.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/signup.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask_wtforms_tutorial/templates/success.jinja2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wsgi.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,82 +38,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="step_5" />
+        <entry key="$PROJECT_DIR$" value="step_6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="ProjectId" id="1wHtWOjKuviqcMq1JCpOeeaUrc8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="1c20c6c1-ec24-4f48-b2c4-2974c4e34e27" name="Default Changelist" comment="" />
-      <created>1628127372466</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1628127372466</updated>
-      <workItem from="1628127375852" duration="108000" />
-      <workItem from="1628138160140" duration="321000" />
-      <workItem from="1628138555395" duration="295000" />
-      <workItem from="1628138855465" duration="1950000" />
-      <workItem from="1628170483570" duration="2235000" />
-      <workItem from="1628173213116" duration="1065000" />
-      <workItem from="1628174362800" duration="81000" />
-      <workItem from="1628174612910" duration="73000" />
-      <workItem from="1628176096857" duration="1394000" />
-    </task>
-    <task id="LOCAL-00001" summary="commit 1: step 1">
-      <created>1628139883109</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1628139883109</updated>
-    </task>
-    <task id="LOCAL-00002" summary="commit 2: step 2">
-      <created>1628173249174</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1628173249174</updated>
-    </task>
-    <task id="LOCAL-00003" summary="commit 2: step 2">
-      <created>1628173339162</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1628173339162</updated>
-    </task>
-    <task id="LOCAL-00004" summary="commit 4: screenshots folder">
-      <created>1628182773948</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1628182773948</updated>
-    </task>
-    <task id="LOCAL-00005" summary="commit 5: step 5">
-      <created>1628184357791</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1628184357791</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -101,13 +58,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit 1: step 1" />
-    <MESSAGE value="commit 2: step 2" />
-    <MESSAGE value="commit 4: step 4" />
-    <MESSAGE value="commit 4: screenshots folder" />
-    <MESSAGE value="commit 5: step 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 5: step 5" />
   </component>
 </project>
