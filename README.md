@@ -18,18 +18,18 @@
 ![postman request output](screenshots/step_5.jpg)
 
 # step VI-VIII -Compiling Frontend JavaScript & Stylesheets Flask 
-![postman request output](screenshots/step_8_1.jpg)
+![postman request output](screenshots/step_8_1.png)
 
 # step IX - Connect Flask to a Database with Flask-SQLAlchemy - database works
-![postman request output](screenshots/step_9_1.jpg)
-![postman request output](screenshots/step_9_2.jpg)
-![postman request output](screenshots/step_9_3.jpg)
+![postman request output](screenshots/step_9_1.png)
+![postman request output](screenshots/step_9_2.png)
+![postman request output](screenshots/step_9_3.png)
 
 # step X - Handle User Accounts & Authentication in Flask with Flask-Login
-![postman request output](screenshots/step_10_1.jpg)
+![postman request output](screenshots/step_10_1.png)
 
 # step XI - Managing Session Data with Flask-Session & Redis
-![postman request output](screenshots/step_11_1.jpg)
-![postman request output](screenshots/step_11_2.jpg)
-![postman request output](screenshots/step_11_3.jpg)
+![postman request output](screenshots/step_11_1.png)
+![postman request output](screenshots/step_11_2.png)
+![postman request output](screenshots/step_11_3.png)
 
